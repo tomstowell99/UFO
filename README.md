@@ -5,3 +5,7 @@
    criteria to refine our search, (date, city, state country and shape)
    
 ## How to 
+
+![](https://github.com/tomstowell99/UFO/blob/main/No%20filter.PNG)
+
+
